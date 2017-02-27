@@ -1,2 +1,2 @@
 # idc-stuff
-A compilation of ida useful idc scripts Edit
+A compilation of ida useful idc scripts
